@@ -1,6 +1,3 @@
-
-
-
 <h1>Clone Do Instagram </h1>
 </br>
     <h2>Desenvolvido em : </h2>
